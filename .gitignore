@@ -1,1 +1,34 @@
-cpimg.code-workspace
+# 🔹 Arquivos de Python  
+__pycache__/  
+*.py[cod]  
+*.so  
+*.pyd  
+*.pyo  
+*.pyc  
+
+# 🔹 Ambientes Virtuais  
+venv/  
+.env/  
+*.venv  
+pip-log.txt  
+pip-delete-this-directory.txt  
+
+# 🔹 Logs e Caches  
+logs/  
+*.log  
+debug.log  
+
+# 🔹 Arquivos de Sistema  
+.DS_Store  
+*~  
+
+# 🔹 Arquivos de IDE/Editor  
+.vscode/  
+*.code-workspace  
+.idea/  
+
+# 🔹 Dependências Geradas  
+*.egg  
+*.egg-info/  
+dist/  
+build/  
